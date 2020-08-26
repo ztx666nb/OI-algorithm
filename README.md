@@ -8,6 +8,10 @@
 
 ### 线段树
 
+[Code](https://github.com/ztx666nb/OI-algorithm/blob/master/segment_tree.cpp)
+
+$qwq$
+
 ### 树状数组
 
 ## 奇技淫巧
